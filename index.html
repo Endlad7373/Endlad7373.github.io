@@ -2,13 +2,244 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://avtotime02.ru">
-    <title>Перенаправление...</title>
-    <script>
-        window.location.href = "https://avtotime02.ru";
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screen Recorder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .controls {
+            margin: 20px 0;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-right: 10px;
+        }
+        button:disabled {
+            background: #cccccc;
+        }
+        button.stop {
+            background: #f44336;
+        }
+        .preview {
+            margin: 20px 0;
+        }
+        video {
+            width: 100%;
+            border-radius: 5px;
+            background: #000;
+        }
+        .settings {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f9f9f9;
+            border-radius: 5px;
+        }
+        .settings label {
+            display: block;
+            margin: 10px 0;
+        }
+        .save-options {
+            margin-top: 15px;
+        }
+        .status {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-    <p>Если перенаправление не сработало, <a href="https://avtotime02.ru">нажмите сюда</a>.</p>
+    <div class="container">
+        <h1>Запись экрана</h1>
+        
+        <div class="settings">
+            <h3>Настройки записи</h3>
+            <label>
+                <input type="checkbox" id="videoCheckbox" checked>
+                Записывать видео
+            </label>
+            <label>
+                <input type="checkbox" id="audioCheckbox">
+                Записывать звук
+            </label>
+            
+            <div class="save-options">
+                <h3>Способ сохранения</h3>
+                <label>
+                    <input type="radio" name="saveMethod" value="download" checked>
+                    Скачивание файла
+                </label>
+                <label>
+                    <input type="radio" name="saveMethod" value="folder">
+                    Сохранить в папку (только Chrome/Edge)
+                </label>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="startBtn">Начать запись</button>
+            <button id="stopBtn" class="stop" disabled>Остановить</button>
+            <button id="folderBtn">Выбрать папку</button>
+        </div>
+        
+        <div class="preview">
+            <h3>Предпросмотр:</h3>
+            <video id="previewVideo" autoplay muted></video>
+        </div>
+        
+        <div class="status" id="statusText"></div>
+    </div>
+
+    <script>
+        // Элементы интерфейса
+        const startBtn = document.getElementById('startBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const folderBtn = document.getElementById('folderBtn');
+        const previewVideo = document.getElementById('previewVideo');
+        const statusText = document.getElementById('statusText');
+        const videoCheckbox = document.getElementById('videoCheckbox');
+        const audioCheckbox = document.getElementById('audioCheckbox');
+        
+        // Переменные для записи
+        let mediaRecorder;
+        let recordedChunks = [];
+        let saveDirectoryHandle = null;
+        
+        // Выбор папки для сохранения
+        folderBtn.addEventListener('click', async () => {
+            try {
+                saveDirectoryHandle = await window.showDirectoryPicker();
+                statusText.textContent = "Папка для сохранения выбрана!";
+                statusText.style.color = "green";
+            } catch (err) {
+                statusText.textContent = "Ошибка выбора папки: " + err.message;
+                statusText.style.color = "red";
+            }
+        });
+        
+        // Начало записи
+        startBtn.addEventListener('click', async () => {
+            try {
+                statusText.textContent = "Запрос доступа к экрану...";
+                statusText.style.color = "blue";
+                
+                const constraints = {
+                    video: videoCheckbox.checked ? { frameRate: 30 } : false,
+                    audio: audioCheckbox.checked
+                };
+                
+                const stream = await navigator.mediaDevices.getDisplayMedia(constraints);
+                
+                // Показываем предпросмотр
+                previewVideo.srcObject = stream;
+                
+                // Настройка MediaRecorder
+                recordedChunks = [];
+                mediaRecorder = new MediaRecorder(stream, {
+                    mimeType: 'video/webm'
+                });
+                
+                mediaRecorder.ondataavailable = (event) => {
+                    if (event.data.size > 0) {
+                        recordedChunks.push(event.data);
+                    }
+                };
+                
+                mediaRecorder.onstop = async () => {
+                    const blob = new Blob(recordedChunks, { type: 'video/webm' });
+                    
+                    // Получаем выбранный метод сохранения
+                    const saveMethod = document.querySelector('input[name="saveMethod"]:checked').value;
+                    
+                    if (saveMethod === 'folder' && saveDirectoryHandle) {
+                        await saveToFolder(blob);
+                    } else {
+                        downloadFile(blob);
+                    }
+                    
+                    // Остановка потока
+                    stream.getTracks().forEach(track => track.stop());
+                    previewVideo.srcObject = null;
+                };
+                
+                mediaRecorder.start(1000); // Захватываем данные каждую секунду
+                
+                startBtn.disabled = true;
+                stopBtn.disabled = false;
+                statusText.textContent = "Идет запись...";
+                statusText.style.color = "green";
+                
+            } catch (err) {
+                statusText.textContent = "Ошибка: " + err.message;
+                statusText.style.color = "red";
+            }
+        });
+        
+        // Остановка записи
+        stopBtn.addEventListener('click', () => {
+            if (mediaRecorder && mediaRecorder.state !== 'inactive') {
+                mediaRecorder.stop();
+                startBtn.disabled = false;
+                stopBtn.disabled = true;
+                statusText.textContent = "Запись остановлена";
+            }
+        });
+        
+        // Сохранение в папку (File System Access API)
+        async function saveToFolder(blob) {
+            try {
+                const fileName = `recording_${new Date().toISOString().replace(/[:.]/g, '-')}.webm`;
+                const fileHandle = await saveDirectoryHandle.getFileHandle(fileName, { create: true });
+                const writable = await fileHandle.createWritable();
+                await writable.write(blob);
+                await writable.close();
+                
+                statusText.textContent = `Видео сохранено в папку как ${fileName}`;
+                statusText.style.color = "green";
+            } catch (err) {
+                statusText.textContent = "Ошибка сохранения в папку: " + err.message;
+                statusText.style.color = "red";
+                // Если не получилось сохранить в папку, скачиваем
+                downloadFile(blob);
+            }
+        }
+        
+        // Скачивание файла
+        function downloadFile(blob) {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `screen_recording_${new Date().toISOString().replace(/[:.]/g, '-')}.webm`;
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(() => {
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            }, 100);
+            
+            statusText.textContent = "Видео скачивается...";
+            statusText.style.color = "green";
+        }
+    </script>
 </body>
 </html>
