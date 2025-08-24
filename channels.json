@@ -1,0 +1,3232 @@
+[
+  {
+    "id": "b7d879feefadde4e04e516dde89012cd",
+    "name": "ЯПервый",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-04-02/c4/b1/c4b15210e7d604c9a62b5f9dc16ac528.jpg?width=34&height=34",
+        "alt": "Иконка канала ЯПервый",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-05-13/71/be/71bea9f098e193d3ded453e657661fe5.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b7d879feefadde4e04e516dde89012cd/"
+  },
+  {
+    "id": "3c86a67da5919dde328f95c7da0f6a31",
+    "name": "ГТРК \"Нижний Новгород\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-04/44/95/44952f499efa53d15cc60f8b38fee018.jpg?width=34&height=34",
+        "alt": "Иконка канала ГТРК \"Нижний Новгород\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/5c/5c/5c5c0d536ee0e70ba886d03519933468.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/3c86a67da5919dde328f95c7da0f6a31/"
+  },
+  {
+    "id": "333f94ef9af118c0ac51006243053e07",
+    "name": "Телеканал «ННТВ»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/21/4c/214c7027020023629a813bfad51df48e.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «ННТВ»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/8d/b1/8db15fbd503301efecc1e7a89e3cde0e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/333f94ef9af118c0ac51006243053e07/"
+  },
+  {
+    "id": "92aa15b4975d9f63c4e0b82e3b7af463",
+    "name": "БСТ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/83/9f/839f369c0150480b218694039537a7d4.jpg?width=34&height=34",
+        "alt": "Иконка канала БСТ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/f2/d4/f2d4b54f58417b239943db42690cbb99.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/92aa15b4975d9f63c4e0b82e3b7af463/"
+  },
+  {
+    "id": "7c5ae60686a94e04691f6917e1dec066",
+    "name": "Абакан 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/a1/00/a100410b4001d3d8f6db1695943bb702.jpg?width=34&height=34",
+        "alt": "Иконка канала Абакан 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/1c/c0/1cc0df33e760df00b4882ba8e749ec75.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/7c5ae60686a94e04691f6917e1dec066/"
+  },
+  {
+    "id": "cf7e6ad2c24ce743b5b60478c176037b",
+    "name": "ГТРК Башкортостан",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-25/87/0c/870c8da8eb90148bc6babd3c59ba800f.jpg?width=34&height=34",
+        "alt": "Иконка канала ГТРК Башкортостан",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-01-13/3f/26/3f2666e70c76884b9fee879a6143cd32.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/cf7e6ad2c24ce743b5b60478c176037b/"
+  },
+  {
+    "id": "ce34005d3db841e15eecb7e31749adf6",
+    "name": "Eurasia",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/70/01/7001e77699e45cc07a6a8d53cd368f7a.jpg?width=34&height=34",
+        "alt": "Иконка канала Eurasia",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/1f/22/1f22641731367ae7c24df91c594ed36d.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/ce34005d3db841e15eecb7e31749adf6/"
+  },
+  {
+    "id": "5835cd10c04311e400f2ed19b1b2fe8b",
+    "name": "Телеканал Енисей",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-06-24/19/23/1923ea9c134015f8d174f828fca434e3.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Енисей",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/5f/7f/5f7f6542298c97375a34e666788d5ca7.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5835cd10c04311e400f2ed19b1b2fe8b/"
+  },
+  {
+    "id": "d14fcf59cb7d07a26c48ebc8c6565f44",
+    "name": "Телеканал 360",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-12/d7/67/d767bfbcbb0912a396a538b6a0c910da.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал 360",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/d9/14/d914a5869b0daed2311b7b5159b055b4.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d14fcf59cb7d07a26c48ebc8c6565f44/"
+  },
+  {
+    "id": "cc5693658e4013ac12cd0ceb2b26bdf8",
+    "name": "Общественное телевидение Приморья. Прямой эфир.",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f2/f0/f2f0bacd173217590cf4f2b0949be64c.jpg?width=34&height=34",
+        "alt": "Иконка канала Общественное телевидение Приморья. Прямой эфир.",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/24/3b/243b167783a682094516cc59158436c4.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/cc5693658e4013ac12cd0ceb2b26bdf8/"
+  },
+  {
+    "id": "75957f55ed1e9b4e0ec00f8dd9594fcc",
+    "name": "РБК Уфа",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/fd/96/fd9659d674f43b2fe8db7dd110d62975.jpg?width=34&height=34",
+        "alt": "Иконка канала РБК Уфа",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/48/6d/486da0ef2962ab74546deabc7eb545b4.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/75957f55ed1e9b4e0ec00f8dd9594fcc/"
+  },
+  {
+    "id": "eff9b98140a0e43fec3d6829bca0f8cf",
+    "name": "КАВКАЗ 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/45/8f/458f554f322710806be3b51f83451281.jpg?width=34&height=34",
+        "alt": "Иконка канала КАВКАЗ 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b3/55/b35554113202a23ebd41a72c9d7f9ca2.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/eff9b98140a0e43fec3d6829bca0f8cf/"
+  },
+  {
+    "id": "9a19dcd9b6307fcbd85af3950b988012",
+    "name": "ТСТ Черемхово",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-07/2c/f3/2cf3bbf9b74c2fe3367a71afe76b07db.jpg?width=34&height=34",
+        "alt": "Иконка канала ТСТ Черемхово",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6e/9f/6e9ff76634be3198a888158c6620f859.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9a19dcd9b6307fcbd85af3950b988012/"
+  },
+  {
+    "id": "9a19dcd9b6307fcbd85af3950b988012",
+    "name": "ТСТ Черемхово",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-07/2c/f3/2cf3bbf9b74c2fe3367a71afe76b07db.jpg?width=34&height=34",
+        "alt": "Иконка канала ТСТ Черемхово",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6e/9f/6e9ff76634be3198a888158c6620f859.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9a19dcd9b6307fcbd85af3950b988012/"
+  },
+  {
+    "id": "46c03b7f1a7255326900f4a60a9b44e0",
+    "name": "БелРос ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-01-03/a6/fe/a6fe9363d5ce265107c0d3f53e2fc795.jpg?width=34&height=34",
+        "alt": "Иконка канала БелРос ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-28/3a/e1/3ae12973dc74507ce87cc43f5a1a80dd.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/46c03b7f1a7255326900f4a60a9b44e0/"
+  },
+  {
+    "id": "15bb032337c7425983757d211713eb7d",
+    "name": "Телеканал \"Магас\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/5f/25/5f2509310f1e61b3e0ed1ccfbb2b5408.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал \"Магас\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/8f/12/8f1269d379733930da2cb454487c44bb.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/15bb032337c7425983757d211713eb7d/"
+  },
+  {
+    "id": "dd022de9cc6c8af89409513fa0a6117a",
+    "name": "ЛенТВ24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-12/c3/9d/c39d88a3604908dd130954dcb187b96c.jpg?width=34&height=34",
+        "alt": "Иконка канала ЛенТВ24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/76/3d/763d6c4144eeba8bcc7fd296e8881d2a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/dd022de9cc6c8af89409513fa0a6117a/"
+  },
+  {
+    "id": "57486bf8e1c01d16a5a939c463867fab",
+    "name": "Рифей-ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/4f/4e/4f4e78cdec3741a959889eea37a254ca.jpg?width=34&height=34",
+        "alt": "Иконка канала Рифей-ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/3b/81/3b81d4abdaa6a742dda888fdb904b3a8.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/57486bf8e1c01d16a5a939c463867fab/"
+  },
+  {
+    "id": "04106d67b7888cda01b0ffa5e7ef757b",
+    "name": "10 канал | Мордовия 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ef/d6/efd6b93d5548f06e66ed7617fedf2bc2.jpg?width=34&height=34",
+        "alt": "Иконка канала 10 канал | Мордовия 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/04106d67b7888cda01b0ffa5e7ef757b/"
+  },
+  {
+    "id": "aff0a2b356d2e1eef55bdb868be4dcc3",
+    "name": "Прямой эфир телеканала 41 РЕГИОН",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/e8/05/e805662ee5896673b54228a3ae2e4ea2.jpg?width=34&height=34",
+        "alt": "Иконка канала Прямой эфир телеканала 41 РЕГИОН",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/fd/db/fddb6b22997554c99c1e8259410a57b0.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/aff0a2b356d2e1eef55bdb868be4dcc3/"
+  },
+  {
+    "id": "cb2f1d99b88c9b4d38df05cd7fa0a6c2",
+    "name": "Телеканал «Кубань 24»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2b/d2/2bd2df59a255faac26fab55c22304730.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Кубань 24»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/9a/c0/9ac0a66ce840a369f9ae27e9366e972b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/cb2f1d99b88c9b4d38df05cd7fa0a6c2/"
+  },
+  {
+    "id": "df0faa92ca3f1d7df057c202fd4b21c4",
+    "name": "Телекомпания АСТВ. Новости Сахалина",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ea/16/ea160ce3e56ca80dee78accc3d2545d9.jpg?width=34&height=34",
+        "alt": "Иконка канала Телекомпания АСТВ. Новости Сахалина",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/10/47/1047ffe078b689b5da3a27b7766b0ad2.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/df0faa92ca3f1d7df057c202fd4b21c4/"
+  },
+  {
+    "id": "00d3bba0b8dade53fff9a4d07fa9611f",
+    "name": "TV Губерния Воронеж",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/16/4d/164dbbbcf834b83f3e22841cf36c1670.jpg?width=34&height=34",
+        "alt": "Иконка канала TV Губерния Воронеж",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/9c/66/9c664232b66ba4cc9d33120b26a1bf76.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/00d3bba0b8dade53fff9a4d07fa9611f/"
+  },
+  {
+    "id": "bed2dcda74004e4e9a61966d2848c027",
+    "name": "Телеканал «Волга»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-10/c3/1a/c31ab1e1c27e0a8acad1217099e1c400.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Волга»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/42/6e/426e1684e540b29687fdd397685d80df.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/bed2dcda74004e4e9a61966d2848c027/"
+  },
+  {
+    "id": "8bdbf725a882473a1e558d00a882cf03",
+    "name": "телеканал \"Первый Тульский\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ee/fb/eefb8c8f397500d705f2af21d1b1b43f.jpg?width=34&height=34",
+        "alt": "Иконка канала телеканал \"Первый Тульский\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/42/d6/42d646008d3041cab8fe7df26376f27b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/8bdbf725a882473a1e558d00a882cf03/"
+  },
+  {
+    "id": "7d6d8c8fc5c6e02d9c0b78eb451f3bd0",
+    "name": "Канал 12",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/28/6d/286dfc93161e142c224a76076ba70e36.jpg?width=34&height=34",
+        "alt": "Иконка канала Канал 12",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/d6/31/d63100c03dd2781746d124164c535daa.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/"
+  },
+  {
+    "id": "3bbbfe178e58ca0830a701e0624f20d8",
+    "name": "Телеканал  «Первый Крымский»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ae/03/ae03068c634d160a5db1b1090ecb91ae.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал  «Первый Крымский»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/eb/cb/ebcbd35ec04f20398692afce748dce95.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/3bbbfe178e58ca0830a701e0624f20d8/"
+  },
+  {
+    "id": "601ca3d760de90391c18772e43d5190e",
+    "name": "Телеканал Юрган",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/55/cf/55cf850c722af7f25698516dd5e1788a.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Юрган",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/8e/6c/8e6c206dbff0c8a35c0f906c5ecb0188.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/601ca3d760de90391c18772e43d5190e/"
+  },
+  {
+    "id": "740503607d216b5d467694a1e8fb39a8",
+    "name": "Трубная Металлургическая Компания",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/d2/40/d2404908cd5596805b2b438986170ea3.jpg?width=34&height=34",
+        "alt": "Иконка канала Трубная Металлургическая Компания",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-01-16/54/91/5491a84433b5414ab2ef20790aeb50f1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/740503607d216b5d467694a1e8fb39a8/"
+  },
+  {
+    "id": "e07fffc5eb21f98a5ade09e825d7095a",
+    "name": "Саратов 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/e8/ac/e8ace08078369d693b20dee7833c96c0.jpg?width=34&height=34",
+        "alt": "Иконка канала Саратов 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/14/90/14908525e507355211ad646ecd2f1cda.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/e07fffc5eb21f98a5ade09e825d7095a/"
+  },
+  {
+    "id": "695f0fdefc96b6f7f2b4a311b71f596b",
+    "name": "Телеканал «Самотлор»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/fa/31/fa311e7f66372a1e399d05259a82b24f.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Самотлор»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b7/35/b7354cf137be8780633086e47ab7ca4b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/695f0fdefc96b6f7f2b4a311b71f596b/"
+  },
+  {
+    "id": "3053eeaecc60e0adef57b81d3498fdd0",
+    "name": "ВЕТТА 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/39/09/3909bf8eca27c48ed07beb7b97f7f4d3.jpg?width=34&height=34",
+        "alt": "Иконка канала ВЕТТА 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/94/15/9415a016f2d64a08cf538f715b9b27a7.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/3053eeaecc60e0adef57b81d3498fdd0/"
+  },
+  {
+    "id": "b6257f020bd1a156e47e0e3fb607f287",
+    "name": "Телеканал \"ЛТВ\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-12/c5/3e/c53e006326f9a6936ee6d36b46569d96.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал \"ЛТВ\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-14/ef/59/ef59b30091e4a3bd04fb8d428bbdbe3e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b6257f020bd1a156e47e0e3fb607f287/"
+  },
+  {
+    "id": "360eabf2bf139f0a97b971c4b92d09b6",
+    "name": "Телеканал Югра",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/fa/2f/fa2f824cc1998515bcc9ef37c9c808cd.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Югра",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/64/92/6492ed48fbc5698e50387e931acaa762.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/360eabf2bf139f0a97b971c4b92d09b6/"
+  },
+  {
+    "id": "3fd26103b82508289ef7b7f60c77d9c8",
+    "name": "Телеканал «Прима»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/18/0c/180ca526474da79153642b5e72d2fd7f.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Прима»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/f3/e7/f3e759b3ec0349ff4c1d5a9cba7e8f00.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/3fd26103b82508289ef7b7f60c77d9c8/"
+  },
+  {
+    "id": "72ced5d533f940251e5e4bd5d61f6bc9",
+    "name": "Телеканал «ДОН 24»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-22/c4/9b/c49b205bb121c9023071629e00898f47.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «ДОН 24»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/eb/06/eb064e56518545e2a9343e1fa51ae360.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/72ced5d533f940251e5e4bd5d61f6bc9/"
+  },
+  {
+    "id": "05065508aed175eaf0f92ef633561974",
+    "name": "Местное Илимское ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/d4/b2/d4b272087488e71aaf676048acad95a8.jpg?width=34&height=34",
+        "alt": "Иконка канала Местное Илимское ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/19/9d/199de57ec8b227537fa60920246e911d.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/05065508aed175eaf0f92ef633561974/"
+  },
+  {
+    "id": "5d9273a93631b87a3bbdc883bb3a58cb",
+    "name": "Телеканал «Apиг Уc»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-29/f1/ec/f1ec38a1309569cb8363a7bd01112400.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Apиг Уc»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/eb/00/eb0048bb2bac1bad414dc9e2611e6fba.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5d9273a93631b87a3bbdc883bb3a58cb/"
+  },
+  {
+    "id": "55fec7f2c11f4decc66568fca39f26b2",
+    "name": "Телеканал Буряад ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-12/23/84/2384e87292ee231aae2b16fcfa35dcfc.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Буряад ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/c1/d5/c1d5cf2df43bc3d7b6abab686f48f8b2.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/55fec7f2c11f4decc66568fca39f26b2/"
+  },
+  {
+    "id": "23afd7debed1cfc7a8efa0827c24d836",
+    "name": "lipetsktime",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/32/90/32908a77491bc2271818b863f9587c3b.jpg?width=34&height=34",
+        "alt": "Иконка канала lipetsktime",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/45/8f/458f48a438a564b65beec5758b0ed3c4.png?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/23afd7debed1cfc7a8efa0827c24d836/"
+  },
+  {
+    "id": "e30732c0045af997cb7312822534522f",
+    "name": "Телеканал «Волга 24»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-10/be/79/be79053ca037a7ce8f55e9416749d305.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Волга 24»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/0e/8a/0e8a3861bcb4f5887d112bb78eab0c1c.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/e30732c0045af997cb7312822534522f/"
+  },
+  {
+    "id": "b4c501ea4129408a3c195f9ae4359c0e",
+    "name": "НТС (Новое Телевидение Сибири)",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/8a/63/8a63f9316e1d8cc618e79963d7c93a2f.jpg?width=34&height=34",
+        "alt": "Иконка канала НТС (Новое Телевидение Сибири)",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/89/2c/892c1d7ed3e485bdb33779e1e0bbdf8b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b4c501ea4129408a3c195f9ae4359c0e/"
+  },
+  {
+    "id": "1932f750f00f3a742a1d90c62d0076ad",
+    "name": "СВОЁ ТВ СТАВРОПОЛЬСКИЙ КРАЙ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/96/00/96002d88d3220e0d20f6f15e07d48cf9.jpg?width=34&height=34",
+        "alt": "Иконка канала СВОЁ ТВ СТАВРОПОЛЬСКИЙ КРАЙ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6e/9b/6e9b482eadeea78c7efcb78ec9b844d8.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1932f750f00f3a742a1d90c62d0076ad/"
+  },
+  {
+    "id": "2804b7fd1507420dda2e2c81b2b72c8e",
+    "name": "Братская студия телевидения",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2024-12-18/50/c9/50c91004a57c51a3bec6e50e5a72efc8.jpg?width=34&height=34",
+        "alt": "Иконка канала Братская студия телевидения",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ac/a0/aca083a14a48ffe6b40c19823f43af69.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2804b7fd1507420dda2e2c81b2b72c8e/"
+  },
+  {
+    "id": "a0e83fe5c23fc219886f7d7f084a8cb4",
+    "name": "7 канал Красноярск",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/c6/08/c6089e30b02be9a5a66fd8a01f1f9810.jpg?width=34&height=34",
+        "alt": "Иконка канала 7 канал Красноярск",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/d5/b0/d5b036caf4ea1911e8f18aee3bc237b9.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/a0e83fe5c23fc219886f7d7f084a8cb4/"
+  },
+  {
+    "id": "f79ff24ad16cf5f5eb52994647596d13",
+    "name": "IvanovoNEWS | БАРС | Новости | Иваново",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/91/1e/911effe5fc012cc1325f0b82f9756d48.jpg?width=34&height=34",
+        "alt": "Иконка канала IvanovoNEWS | БАРС | Новости | Иваново",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/c6/ff/c6ffc4676f55b1727dc8d2ae71a4e840.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f79ff24ad16cf5f5eb52994647596d13/"
+  },
+  {
+    "id": "503a8ac5ca6d738f05a147764f70215b",
+    "name": "ТРК Истоки",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/04/9c/049cd61894c67f9168dfafb8e9a8e7a9.jpg?width=34&height=34",
+        "alt": "Иконка канала ТРК Истоки",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/99/d2/99d21ecaa3a5555b0356adfe07babe0a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/503a8ac5ca6d738f05a147764f70215b/"
+  },
+  {
+    "id": "5e56eba895d87d84749e756720a71e73",
+    "name": "Телеканал «Катунь 24»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/0e/35/0e358fa20965635230a7f0227471e622.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Катунь 24»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/d0/9a/d09ad91192ab367a868208fea1457aa9.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5e56eba895d87d84749e756720a71e73/"
+  },
+  {
+    "id": "b8079a6e1e184643d9a17c42469a1f30",
+    "name": "ИНФО 24 - региональный телеканал",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/55/49/55493056d27b3a749bcabff6db31c996.jpg?width=34&height=34",
+        "alt": "Иконка канала ИНФО 24 - региональный телеканал",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/e0/d4/e0d43bca5dd2fb679137d56370c6ea86.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b8079a6e1e184643d9a17c42469a1f30/"
+  },
+  {
+    "id": "c0de1d61969a7fbdf6c68ca0b8a67769",
+    "name": "Новости Ямала",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-19/59/22/5922ff4df6f66fc9e89a02586c9238d7.jpg?width=34&height=34",
+        "alt": "Иконка канала Новости Ямала",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/1d/6a/1d6a85ec7b18448852a8d8083b89b2cb.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/c0de1d61969a7fbdf6c68ca0b8a67769/"
+  },
+  {
+    "id": "9927a61345cbec5aac6558f6c5454d61",
+    "name": "Омск ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/6b/39/6b3999e6bb4659af19da9b38e5f28552.jpg?width=34&height=34",
+        "alt": "Иконка канала Омск ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/83/7e/837ebbb052deacb5a5e463aefab36ff7.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9927a61345cbec5aac6558f6c5454d61/"
+  },
+  {
+    "id": "a58862ee5d1a76e371a786874e69b914",
+    "name": "Городские Новости | Информационный портал Город",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/81/b7/81b7f4d2e0f9590bc27ceae303fdb840.jpg?width=34&height=34",
+        "alt": "Иконка канала Городские Новости | Информационный портал Город",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/39/bb/39bb2b4b8be564dd1e1d3a756381995d.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/a58862ee5d1a76e371a786874e69b914/"
+  },
+  {
+    "id": "0115cdc35fb5234242a89de98137dca9",
+    "name": "Телеканал \"ТОЛК\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f1/9e/f19e2b95269809d07c7e415adb3912a8.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал \"ТОЛК\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/3b/3f/3b3f3582412a7df41b5fbf595a9b31f0.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/0115cdc35fb5234242a89de98137dca9/"
+  },
+  {
+    "id": "342a3e4f3c9bb0d7830a52af0d956c44",
+    "name": "ИА «Импульс Севера»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/4c/35/4c3524ddea63de133d457ddf29eb7865.jpg?width=34&height=34",
+        "alt": "Иконка канала ИА «Импульс Севера»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/13/7a/137a45eae1a2345ebe4e08ea452df4f0.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/342a3e4f3c9bb0d7830a52af0d956c44/"
+  },
+  {
+    "id": "671239d68ada3000a154a68efa0c7813",
+    "name": "Бийское Телевидение (БТВ)",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/96/5e/965e9455f53866b02c8bcaa9f52c185c.jpg?width=34&height=34",
+        "alt": "Иконка канала Бийское Телевидение (БТВ)",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/cc/6b/cc6b0d0c3499421eea3a2540b5d87ed0.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/671239d68ada3000a154a68efa0c7813/"
+  },
+  {
+    "id": "813dc0c5a944559e7e52b840d09a84f6",
+    "name": "Телеканал 86 Сургут",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/1d/0d/1d0d587513e0f0104713eb64091db824.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал 86 Сургут",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/8d/f1/8df1ff1cdcd8347df066aaa2e317b545.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/813dc0c5a944559e7e52b840d09a84f6/"
+  },
+  {
+    "id": "7a35d5186515db85144d86900ebe1daf",
+    "name": "Телеканал С1 Сургут",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f4/39/f439e4e76a407af5820d19edd46867fc.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал С1 Сургут",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/07/80/0780c036df6146b54303ef4d4c645108.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/7a35d5186515db85144d86900ebe1daf/"
+  },
+  {
+    "id": "1839496ed8242ed47f5c540e25d4ba3f",
+    "name": "МТВ Волгоград",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/1b/9e/1b9e00ecb55da6fdd05392a93ba30a3e.jpg?width=34&height=34",
+        "alt": "Иконка канала МТВ Волгоград",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2c/de/2cde73bbf30ebc3559df6e6e9caa0565.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1839496ed8242ed47f5c540e25d4ba3f/"
+  },
+  {
+    "id": "ff5c11c9a51750f5d33427762abc315c",
+    "name": "Телеканал «Продвижение»",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-03/5d/fd/5dfd72f695d3562d42363a682c50038a.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал «Продвижение»",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-07/68/d8/68d84c5416ebd952d281895a3dfaa584.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/ff5c11c9a51750f5d33427762abc315c/"
+  },
+  {
+    "id": "9b482361d6c845f7d70eafc98356d8bf",
+    "name": "Телеканал \"АРИС\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/c1/67/c16747e3dd0f24a315d3d8fbafeebfaf.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал \"АРИС\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/eb/57/eb5778caddb24eca019f12ebec579df7.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9b482361d6c845f7d70eafc98356d8bf/"
+  },
+  {
+    "id": "b04fc212802bbf7ec94768c029e54aa9",
+    "name": "Вести Липецк",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/32/80/3280c7fd0d89a677a5ff200beadf7737.jpg?width=34&height=34",
+        "alt": "Иконка канала Вести Липецк",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/25/98/2598ac4a78d4a436e4d440267fa05178.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b04fc212802bbf7ec94768c029e54aa9/"
+  },
+  {
+    "id": "d506fe68746bb96512e328d3ce4cc761",
+    "name": "ТОЛПАР-ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/73/4d/734de3467275c17965251c21e813600f.jpg?width=34&height=34",
+        "alt": "Иконка канала ТОЛПАР-ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/66/82/668285915c01e21e0b54defdbaad59d1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d506fe68746bb96512e328d3ce4cc761/"
+  },
+  {
+    "id": "43269ba8fb179e298b1e497f557e8d2d",
+    "name": "Телеканал МИР",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-01-14/88/c7/88c731362319829e7d7f872553ef0940.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал МИР",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/03/6c/036c50a250b111d15e0810f9174dc82d.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/43269ba8fb179e298b1e497f557e8d2d/"
+  },
+  {
+    "id": "1bf2ee9dc3e20b4cb5a7ed4833bd7cb2",
+    "name": "RT Arabic",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-01/75/d3/75d3a63109444ef2499ddb8ac00d8be9.jpg?width=34&height=34",
+        "alt": "Иконка канала RT Arabic",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b4/98/b49877297ec86eab75d0901f21420e08.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/"
+  },
+  {
+    "id": "e553770139adc990ee5f54972ff4121b",
+    "name": "RT",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/c7/f7/c7f76ff7e78310593df49de816273d71.jpg?width=34&height=34",
+        "alt": "Иконка канала RT",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ed/ee/edee05190a88355968968bb62a6e2c04.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/e553770139adc990ee5f54972ff4121b/"
+  },
+  {
+    "id": "91815da4edb167b5bd617bae490e57da",
+    "name": "Телеканал Царьград",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/0f/81/0f81b1ace3d133161c03cdc29052bf27.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Царьград",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/59/f3/59f30518fabc2e0145c2e6d27cbc23df.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/91815da4edb167b5bd617bae490e57da/"
+  },
+  {
+    "id": "07beff61e617797db550cc3a5f6ad92b",
+    "name": "Телеканал 360",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-12/d7/67/d767bfbcbb0912a396a538b6a0c910da.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал 360",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-05-12/89/62/8962429ae18260035631a6bc8be8d274.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/07beff61e617797db550cc3a5f6ad92b/"
+  },
+  {
+    "id": "f6a6d5c955180d0d0f80c66d0b6150d3",
+    "name": "Вместе-РФ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/8a/a3/8aa37c7091556944ca25429e5b3bb7f1.jpg?width=34&height=34",
+        "alt": "Иконка канала Вместе-РФ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b6/3e/b63edf4969c8d795d3b0da83713ff8c8.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f6a6d5c955180d0d0f80c66d0b6150d3/"
+  },
+  {
+    "id": "6e8e136ce154f4cc56603f9652b482a0",
+    "name": "Дума ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-13/be/dd/beddbc7d06b1ae4adab4afb9b1b90233.jpg?width=34&height=34",
+        "alt": "Иконка канала Дума ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-02/19/e9/19e9837dd55ad6d2ddb037023e7a93fd.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/6e8e136ce154f4cc56603f9652b482a0/"
+  },
+  {
+    "id": "f372aa2aff09518d050ecdf70956012c",
+    "name": "ФЕДЕРАЛЬНЫЙ ТЕЛЕКАНАЛ КРИК-ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f6/30/f630fe805701443570600a89a1170e2e.jpg?width=34&height=34",
+        "alt": "Иконка канала ФЕДЕРАЛЬНЫЙ ТЕЛЕКАНАЛ КРИК-ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/dd/7d/dd7dde0345a5213af5b275d860116560.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f372aa2aff09518d050ecdf70956012c/"
+  },
+  {
+    "id": "5f378f373c88dcebd6549bb0c84d623f",
+    "name": "Национальный жилищный канал",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/9a/b6/9ab67a6d335266945a99c445937fde02.jpg?width=34&height=34",
+        "alt": "Иконка канала Национальный жилищный канал",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/3b/c4/3bc4ecd6bc86172283ddeb40eee39be7.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5f378f373c88dcebd6549bb0c84d623f/"
+  },
+  {
+    "id": "1f550a23c44ec7f287324b0b3e4f5a29",
+    "name": "Общественная служба новостей",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/de/12/de125bbf87b9a8215dbab7e38a1958b7.jpg?width=34&height=34",
+        "alt": "Иконка канала Общественная служба новостей",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/44/a7/44a7aef1947a73af98759ed6d8e81caa.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1f550a23c44ec7f287324b0b3e4f5a29/"
+  },
+  {
+    "id": "66710e44c6f796f0b754794ca2585229",
+    "name": "Вселенная мультфильмов",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-02-11/9d/2f/9d2f65b352bffcfad715f66b0d693e57.png?width=34&height=34",
+        "alt": "Иконка канала Вселенная мультфильмов",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-02-11/96/fa/96fa6dd3c5365a3f332ee5609e59aa09.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/66710e44c6f796f0b754794ca2585229/"
+  },
+  {
+    "id": "1da5d92af8c55b16241f1eb12a27f00c",
+    "name": "Охотник и рыболов",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/50/92/5092801cdbcd84e8513017394a223638.jpg?width=34&height=34",
+        "alt": "Иконка канала Охотник и рыболов",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/e0/2f/e02f8df80c33b519473e37e361eaa834.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1da5d92af8c55b16241f1eb12a27f00c/"
+  },
+  {
+    "id": "5a294ae1ed12c44c7053301fb5fa9ba0",
+    "name": "ТНТ MUSIC",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/c1/33/c1333ac5d6cb454f199c2e551921301c.png?width=34&height=34",
+        "alt": "Иконка канала ТНТ MUSIC",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6f/a6/6fa65c6c8f93494b9ac2b2278ef2bd2e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5a294ae1ed12c44c7053301fb5fa9ba0/"
+  },
+  {
+    "id": "f5ba23a0149f409c18168231844e0a3b",
+    "name": "ТНТ MUSIC",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/c1/33/c1333ac5d6cb454f199c2e551921301c.png?width=34&height=34",
+        "alt": "Иконка канала ТНТ MUSIC",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/f6/52/f65236cadc4b650f0ea463ec3efa8529.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f5ba23a0149f409c18168231844e0a3b/"
+  },
+  {
+    "id": "f712ae5ff3db23ec09b3674133d44daa",
+    "name": "VIVA RUSSIA",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/c3/a4/c3a4ad05703c7c982d567fb31ae348fd.jpg?width=34&height=34",
+        "alt": "Иконка канала VIVA RUSSIA",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/88/81/8881c50ade6c39c0bc1e16ffb24af011.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f712ae5ff3db23ec09b3674133d44daa/"
+  },
+  {
+    "id": "406973c72e9d0449feef05ef7811ad01",
+    "name": "Загородный",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-12/42/86/4286ad439a1a86665c14ab3756eeb612.jpg?width=34&height=34",
+        "alt": "Иконка канала Загородный",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/09/6d/096da1c750132aad8cd829a78c94c298.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/406973c72e9d0449feef05ef7811ad01/"
+  },
+  {
+    "id": "88860091dc5125b1b5cd266988d5be74",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/ce/9b/ce9b221360f2e7c33fa228f2fe2e5cbc.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/88860091dc5125b1b5cd266988d5be74/"
+  },
+  {
+    "id": "bf296006751f4344e359b3b5dc70be25",
+    "name": "Детское радио",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/5a/0a/5a0a80014f20a20ef9868fa3ab9eb751.jpg?width=34&height=34",
+        "alt": "Иконка канала Детское радио",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ff/ae/ffae8e578d22efca1b88ddfbde2b77ec.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/bf296006751f4344e359b3b5dc70be25/"
+  },
+  {
+    "id": "13b0320238d7938a2deffb4065068986",
+    "name": "РАТНИК",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ac/5f/ac5f56a00df9d1b298d310a79d316056.jpg?width=34&height=34",
+        "alt": "Иконка канала РАТНИК",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/48/8c/488cbdf145d15b7fb5817d4334837525.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/13b0320238d7938a2deffb4065068986/"
+  },
+  {
+    "id": "09e51eefa939595a4ac67182c6fb3e4e",
+    "name": "Кино и Жизнь",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/37/3f/373f70315f6c630eb0661f0c3deba944.jpg?width=34&height=34",
+        "alt": "Иконка канала Кино и Жизнь",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/c6/7b/c67be0193d077ee152d9f088f1c88775.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/09e51eefa939595a4ac67182c6fb3e4e/"
+  },
+  {
+    "id": "557da6ebde03361969d62432ce584935",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-09-27/b7/a4/b7a4bbac33ad4deecb7f2d65766114ca.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/557da6ebde03361969d62432ce584935/"
+  },
+  {
+    "id": "b058c213ffe75fa551574810ab0adb39",
+    "name": "Медиадом | Пространство Возможностей",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-06-27/fd/6a/fd6a7cb282f8f1d4ef4b357bd2dbfeef.jpg?width=34&height=34",
+        "alt": "Иконка канала Медиадом | Пространство Возможностей",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/51/a3/51a356f76b25e70e8e69627a06dd9a63.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b058c213ffe75fa551574810ab0adb39/"
+  },
+  {
+    "id": "2372550cb9fd4b970a274ebec6c71839",
+    "name": "Казанский федеральный университет | КФУ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-06-30/5d/38/5d385864c4a7c5f38ddfaf353e1a352d.jpg?width=34&height=34",
+        "alt": "Иконка канала Казанский федеральный университет | КФУ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/35/c2/35c2487690593a1e1e45bd30e3da6992.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2372550cb9fd4b970a274ebec6c71839/"
+  },
+  {
+    "id": "23c568b69e0eada33560850484223739",
+    "name": "Кинолента 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-02-24/7b/cf/7bcff5efa0772ba125ba5e694b2884c1.jpg?width=34&height=34",
+        "alt": "Иконка канала Кинолента 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-21/97/e6/97e6b4c92c588fb985315dda64758d14.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/23c568b69e0eada33560850484223739/"
+  },
+  {
+    "id": "e2d1a304d55b9a807ec5df1837859304",
+    "name": "Резонанс ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/8e/cd/8ecd4e0b2d28a6ddb3176bbd5a7468c5.jpg?width=34&height=34",
+        "alt": "Иконка канала Резонанс ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/d6/4a/d64a5985d929451a0402c98942a4f63e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/e2d1a304d55b9a807ec5df1837859304/"
+  },
+  {
+    "id": "d6fa4a9643082b1dc04f0c4833a53b2a",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ee/35/ee35c8c1319bdd1ee99157c112274738.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d6fa4a9643082b1dc04f0c4833a53b2a/"
+  },
+  {
+    "id": "a11c890a0ec0730ad33bdaaf2d244e1a",
+    "name": "Телеканал Тайна",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2024-09-30/f2/32/f232a591ab71574812a434bd4eff7509.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Тайна",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-04/63/b7/63b7f30baa9e774963fc3f4afdee39f3.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/a11c890a0ec0730ad33bdaaf2d244e1a/"
+  },
+  {
+    "id": "f1c3b0bbf26ad010d999e19147e3924f",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/9d/0f/9d0f9c8d889d96f678b0055a291e7b7a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f1c3b0bbf26ad010d999e19147e3924f/"
+  },
+  {
+    "id": "3d7964a9e8e611c2e9378a079a1bf175",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/66/9e/669e740659e664a6be6c65af3a57bf32.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/3d7964a9e8e611c2e9378a079a1bf175/"
+  },
+  {
+    "id": "d1318878c58e59ecb5b3d167f2c33f6d",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b6/6d/b66d26c86e8607bc1a28ea1a617c97cc.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d1318878c58e59ecb5b3d167f2c33f6d/"
+  },
+  {
+    "id": "d5a20f38240b01ab8e4019a78f7d6a81",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/74/fe/74fe2487c8c26460969dd9a696d40b94.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d5a20f38240b01ab8e4019a78f7d6a81/"
+  },
+  {
+    "id": "aa94512eff79ba985e79d473c2a1e90b",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ac/a4/aca4b7516e30702963aa55f2acde60ac.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/aa94512eff79ba985e79d473c2a1e90b/"
+  },
+  {
+    "id": "21452175b89b01e0fb3ef72878d7259d",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/46/73/467345faf7e1f0021aa950e9b2965492.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/21452175b89b01e0fb3ef72878d7259d/"
+  },
+  {
+    "id": "2847184bee8b79311d29263ae5708cf3",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/e5/37/e5375efc852d5dbdab5d72d18792a5ec.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2847184bee8b79311d29263ae5708cf3/"
+  },
+  {
+    "id": "74b44a4725059766fb433b883ea5cd27",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ec/34/ec3409eb5484cbb01cedd068db682dc6.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/74b44a4725059766fb433b883ea5cd27/"
+  },
+  {
+    "id": "1c73b799731cb84c36c176731ca38107",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/61/3f/613f437737ad3a84134e78edf3ba6e28.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1c73b799731cb84c36c176731ca38107/"
+  },
+  {
+    "id": "d29eaedfed6350768958b10d855d2786",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/33/a1/33a19b117c80edc901035db6f8761fe9.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d29eaedfed6350768958b10d855d2786/"
+  },
+  {
+    "id": "015ef8ab4655a4dee755bb9cb33b56e2",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/44/67/44674d71418ad90c04a558359bbe9dc5.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/015ef8ab4655a4dee755bb9cb33b56e2/"
+  },
+  {
+    "id": "544ccc53d5ec1f61c2c02364b3db9e71",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/60/60/60603a3801d374c349bc5d1394712330.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/544ccc53d5ec1f61c2c02364b3db9e71/"
+  },
+  {
+    "id": "89e4d6310399df1d824f861e4b312b49",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-24/36/d5/36d551370ccf3a7fe75513dc2f956226.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/89e4d6310399df1d824f861e4b312b49/"
+  },
+  {
+    "id": "be21f2224204f6ff375826214b2c0376",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6c/d7/6cd73c2ff4643b82746a7532a8eec4be.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/be21f2224204f6ff375826214b2c0376/"
+  },
+  {
+    "id": "688008ee962cdc94c1cf0ac787641b2c",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ce/eb/ceeb24501e78c24289d84b26b31f93ea.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/688008ee962cdc94c1cf0ac787641b2c/"
+  },
+  {
+    "id": "23f9d88a12ff3b53c2dcbb578359ce6b",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/4c/b4/4cb4f8e9936248417329bd63a1140267.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/23f9d88a12ff3b53c2dcbb578359ce6b/"
+  },
+  {
+    "id": "382c0cd388b0771b1a4b02184831552a",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-02/15/e2/15e2b325f95604c38974099f11c543de.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/382c0cd388b0771b1a4b02184831552a/"
+  },
+  {
+    "id": "2f052691c75d72b3ed7f3c33ea956a41",
+    "name": "Смайл ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/8a/d9/8ad96371c04089c54516df2e62e8cce9.jpg?width=34&height=34",
+        "alt": "Иконка канала Смайл ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/e6/23/e623624aa39757060dca875f4febd9d0.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2f052691c75d72b3ed7f3c33ea956a41/"
+  },
+  {
+    "id": "9ad2099eed71b4a0e577292c3bfd0708",
+    "name": "Телеканал \"Радость моя\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f4/6b/f46ba07a0ce63afb69a982f219d25622.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал \"Радость моя\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/3a/3f/3a3fb9e313311b4e0d941dba6ac87f7a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9ad2099eed71b4a0e577292c3bfd0708/"
+  },
+  {
+    "id": "f0c302d2736a4066564b9b929b69507c",
+    "name": "ТБН — Христианское телевидение",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/0b/a2/0ba2449bee7bdf139981139420388744.jpg?width=34&height=34",
+        "alt": "Иконка канала ТБН — Христианское телевидение",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/25/ff/25ffabbd32f3559144befd3de0bbb554.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f0c302d2736a4066564b9b929b69507c/"
+  },
+  {
+    "id": "6a94516dfac869b601251f3a6b8cafbc",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/25/c7/25c7f88a2189e216bb0c6e7b06322bd5.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/6a94516dfac869b601251f3a6b8cafbc/"
+  },
+  {
+    "id": "965a025e4ebbaf0957415f80c6de8534",
+    "name": "Телеканал Музыка Мода ТВ (ММТВ)",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/26/4f/264f79e5e9e93039f66eb5ebc2aac6a5.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал Музыка Мода ТВ (ММТВ)",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-29/15/26/15266b4786c815b8b7e24da31f7b12b8.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/965a025e4ebbaf0957415f80c6de8534/"
+  },
+  {
+    "id": "c93be53cba8a4ba6ac311b395a00f4d5",
+    "name": "ЖАР ПТИЦА -  Русский народный канал",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/76/2f/762fb9cfa7b344bb881cc2858c227f67.jpg?width=34&height=34",
+        "alt": "Иконка канала ЖАР ПТИЦА -  Русский народный канал",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ac/45/ac45784b63bb5370232ba40c65601edf.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/c93be53cba8a4ba6ac311b395a00f4d5/"
+  },
+  {
+    "id": "047ba54d846ee185b4209a797a2ae138",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-09-27/59/74/5974e84cc20c8905ab92dce29edf6c5a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/047ba54d846ee185b4209a797a2ae138/"
+  },
+  {
+    "id": "2d0e8f000ed430b793d8683db0f1a77f",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/c3/2b/c32b6d50aa0900384849381ac72808f4.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2d0e8f000ed430b793d8683db0f1a77f/"
+  },
+  {
+    "id": "d1dff14680d4c84e27908983375f7e89",
+    "name": "Телеканал СОЮЗ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/16/92/16920b9a3ba36ed88436441ad9e90895.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал СОЮЗ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-30/f2/d9/f2d97e301080c1215953f2b571b877e3.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d1dff14680d4c84e27908983375f7e89/"
+  },
+  {
+    "id": "aff65dc545434d8aaaa1669dc95848cd",
+    "name": "МАТЧ!",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-06-19/52/cc/52cc6040d58e6b4ea750b55ee1a0160a.jpg?width=34&height=34",
+        "alt": "Иконка канала МАТЧ!",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-06-05/56/6b/566b2ef2d3d623d43af49fa709decf3a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/aff65dc545434d8aaaa1669dc95848cd/"
+  },
+  {
+    "id": "cc1b56aa4955a144f324ad58998513bb",
+    "name": "Всероссийская федерация волейбола",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/38/5c/385ccd850d0053603ffc0b99d3d38c74.jpg?width=34&height=34",
+        "alt": "Иконка канала Всероссийская федерация волейбола",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ff/ec/ffec4cf1d8b2f53d18129d12978c4dca.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/cc1b56aa4955a144f324ad58998513bb/"
+  },
+  {
+    "id": "7a485ef5da9fe50ba939f36ca3e6ed96",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-07/ba/2c/ba2c47cee153e2846f7f6af08f0a4fcf.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/7a485ef5da9fe50ba939f36ca3e6ed96/"
+  },
+  {
+    "id": "efd143d2f5ea5d00eb3c19230bed3dc6",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/f3/fe/f3fe612d421b92c5c6b35e9416d0ad0e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/efd143d2f5ea5d00eb3c19230bed3dc6/"
+  },
+  {
+    "id": "45b30eef1b89857182b03db2c25631d9",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-07/6e/4a/6e4ae74385a62c6eeae7918e7a220c2d.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/45b30eef1b89857182b03db2c25631d9/"
+  },
+  {
+    "id": "05550e441b09aeec53e60de66b6c47bf",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-09-27/58/2f/582f25398bbad6dc91d7fa639c582fc6.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/05550e441b09aeec53e60de66b6c47bf/"
+  },
+  {
+    "id": "afc3073ec3efc6cb70c88ce6acaf4344",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/99/61/99616586b59d6c3e20aa34eaee6be565.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/afc3073ec3efc6cb70c88ce6acaf4344/"
+  },
+  {
+    "id": "9d751116af89fd3a94b79927de49699b",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-14/df/79/df79b999841c7adefaa50009be084b4e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9d751116af89fd3a94b79927de49699b/"
+  },
+  {
+    "id": "eac1e371fbb6ab680d0176d472c04089",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/61/38/61381f1e2f5235c806403f111cc67c50.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/eac1e371fbb6ab680d0176d472c04089/"
+  },
+  {
+    "id": "9f28acb802549828d3ce7fbd8ecc17d3",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/a2/9e/a29e8b5c8153c71bb18e29b70e5ac775.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9f28acb802549828d3ce7fbd8ecc17d3/"
+  },
+  {
+    "id": "e1f44e12c1a91dc164828923dee24ae0",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/6f/5e/6f5e0c20f6c5b5451f053c98bed3b4a1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/e1f44e12c1a91dc164828923dee24ae0/"
+  },
+  {
+    "id": "efc2833169ec20a3ea61197714bea6ab",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-24/65/8a/658ad8a97e60a6123b506235d2ea2226.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/efc2833169ec20a3ea61197714bea6ab/"
+  },
+  {
+    "id": "f9b779270116788b1425e16ba9552c61",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/0c/bb/0cbbd20d9562d5b0dc7268c1622cdb33.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f9b779270116788b1425e16ba9552c61/"
+  },
+  {
+    "id": "ab2eb0fa46cbe810d923f8e71aa5f239",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/9d/92/9d9262556d281481744d73d3fe4b4452.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/ab2eb0fa46cbe810d923f8e71aa5f239/"
+  },
+  {
+    "id": "a6e96c58dc1f2b7eb328dc2833b68e54",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/d7/ed/d7ede0056610771eab19c5e007e1c837.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/a6e96c58dc1f2b7eb328dc2833b68e54/"
+  },
+  {
+    "id": "2c22e4923ebd46783b80336dd4e49d24",
+    "name": "TENNIS CHANNEL",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/35/05/350566e8c6ebbffc750c26ee6ae1bd61.jpg?width=34&height=34",
+        "alt": "Иконка канала TENNIS CHANNEL",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/5b/83/5b83d5e027d0fb22cac0ffcf715bd2fa.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2c22e4923ebd46783b80336dd4e49d24/"
+  },
+  {
+    "id": "bb71a99e0ddc621322dafad338b96a3e",
+    "name": "Телеканал RTД на русском",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f9/13/f913eca7e758d4da75b40d71b789f402.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал RTД на русском",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/3b/03/3b03f168c120ef055a89bb0b2712cfc1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/bb71a99e0ddc621322dafad338b96a3e/"
+  },
+  {
+    "id": "ee6a3d5ba98066c2aaace3c428a3170c",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-26/a1/a9/a1a92ab3cb48d62c1201ea22f682f536.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/ee6a3d5ba98066c2aaace3c428a3170c/"
+  },
+  {
+    "id": "b6a6363e54ea4d1ff246aec379d40214",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/b9/2c/b92c357586ce451944105d13890c4e13.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/b6a6363e54ea4d1ff246aec379d40214/"
+  },
+  {
+    "id": "8e9da41366fcb497aaeade579f0d715f",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-29/72/65/726520b479e01f589edb6ebd5e019963.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/8e9da41366fcb497aaeade579f0d715f/"
+  },
+  {
+    "id": "47fdffd6ab82bbab0a19039d7018839f",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/8a/62/8a62deebbd0aacaf195a479b8f04575e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/47fdffd6ab82bbab0a19039d7018839f/"
+  },
+  {
+    "id": "e2f68aaab8ab0a7a44c79e94a1ee943a",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-29/6e/2b/6e2b6d7b1262868cce00ad6dd66a2b94.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/e2f68aaab8ab0a7a44c79e94a1ee943a/"
+  },
+  {
+    "id": "0e41c5830781ccf25918df8ea4c7a39b",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-29/e5/a1/e5a1367dc6225a6846ec03b8df0a9704.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/0e41c5830781ccf25918df8ea4c7a39b/"
+  },
+  {
+    "id": "348ebaac61a382f2028e9a1b06f4f2b6",
+    "name": "ТВОЙ 2007",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-03-10/94/84/94845344bf563808898ee2c8c3d1f99c.jpg?width=34&height=34",
+        "alt": "Иконка канала ТВОЙ 2007",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-03/3d/70/3d70bfa10c04b83dd13528e048fe521c.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/348ebaac61a382f2028e9a1b06f4f2b6/"
+  },
+  {
+    "id": "053ac917a4334e240103ca55941f869f",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/0c/86/0c865ab946525f93ac0dda617a8abefd.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/053ac917a4334e240103ca55941f869f/"
+  },
+  {
+    "id": "2e32ab2eafbeea555f693425e0e931a2",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-04/3d/a5/3da52fa7fe99bda01a1caa895470b216.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2e32ab2eafbeea555f693425e0e931a2/"
+  },
+  {
+    "id": "c3a00280a36a173641f422a7bf832c4f",
+    "name": "25 Регион",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/a5/17/a51732661819d632e0098f7d756ba7db.jpg?width=34&height=34",
+        "alt": "Иконка канала 25 Регион",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-16/8b/aa/8baad5eeb31e0c351c1aef10bd3e9a1a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/c3a00280a36a173641f422a7bf832c4f/"
+  },
+  {
+    "id": "64ab8f32ecf1e2f582110165bf55b60a",
+    "name": "GLN24-Геленджик",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/e7/11/e711d987405ef71f0e680e5ecee0916b.jpg?width=34&height=34",
+        "alt": "Иконка канала GLN24-Геленджик",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-17/87/75/87755ca97d37a1fffbe4f9e27e89b2ac.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/64ab8f32ecf1e2f582110165bf55b60a/"
+  },
+  {
+    "id": "2b06a5c4c688fdc05014acb4cba83de0",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-17/06/62/06620a34cfbdfb6b0297340d2c2d5c13.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2b06a5c4c688fdc05014acb4cba83de0/"
+  },
+  {
+    "id": "0e9e44725d5d5ab7ee92c10b40215419",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-17/a0/43/a043f227f5730b843bc9bb827bce8bde.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/0e9e44725d5d5ab7ee92c10b40215419/"
+  },
+  {
+    "id": "34f883d89e4dc946a9c680efc8d210f3",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-17/94/a5/94a5a3b554f2e34c91019625f41d193a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/34f883d89e4dc946a9c680efc8d210f3/"
+  },
+  {
+    "id": "2d7fa51716500fba52586d594201777f",
+    "name": "Телеканал HHQ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ef/1e/ef1e6d84b7c04f92ed0ff02bd6668328.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал HHQ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-02-17/bc/53/bc539df910aac0d7488fbdba3c45fe22.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2d7fa51716500fba52586d594201777f/"
+  },
+  {
+    "id": "1def800119e755c93466f903f37d72a4",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-20/64/70/647017904d0bb9ebe085954981a27c7f.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/1def800119e755c93466f903f37d72a4/"
+  },
+  {
+    "id": "ee3c34823d370bae91c0a7c1bd5b502c",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/7c/51/7c517346ff960196d4032ea511e6e1be.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/ee3c34823d370bae91c0a7c1bd5b502c/"
+  },
+  {
+    "id": "8ceccbefd972496f7c2dd5a7acc476fc",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-08-08/dd/ca/ddca346b3a35b8d8a16f1bc3002a071e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/8ceccbefd972496f7c2dd5a7acc476fc/"
+  },
+  {
+    "id": "fc2476d9dea912529d8b996f6d330202",
+    "name": "РЖД ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/9a/6d/9a6d0d19ededc859c3b118815e5809ce.jpg?width=34&height=34",
+        "alt": "Иконка канала РЖД ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-12-20/08/20/0820005064715a4ad3387f5b7230274b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/fc2476d9dea912529d8b996f6d330202/"
+  },
+  {
+    "id": "d080f8ee5c63ea2ba83bd6d2969d1e84",
+    "name": "Телеканалы мира онлайн",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканалы мира онлайн",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-01-10/44/7e/447edaefe1cefedad57f499e137f5a68.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d080f8ee5c63ea2ba83bd6d2969d1e84/"
+  },
+  {
+    "id": "da7bcfc0c302a2f0a46f030c9ef8a02b",
+    "name": "Восток ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-01-08/08/70/087056ebba5ba7527ec97f4ba5ccf174.jpg?width=34&height=34",
+        "alt": "Иконка канала Восток ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-01-13/b7/86/b786c0484a34202e4d690a95950bee85.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/da7bcfc0c302a2f0a46f030c9ef8a02b/"
+  },
+  {
+    "id": "35376cc3a178d69dcb97dc8743b963d1",
+    "name": "CTV",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/25/88/258893ee8d31edced979f766f06b1c53.jpg?width=34&height=34",
+        "alt": "Иконка канала CTV",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-01-13/e4/d8/e4d80dc4e664b0a4b14e1fd9068c6db2.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/35376cc3a178d69dcb97dc8743b963d1/"
+  },
+  {
+    "id": "f785d738a845cc80658e887843a18ed9",
+    "name": "CTV",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/25/88/258893ee8d31edced979f766f06b1c53.jpg?width=34&height=34",
+        "alt": "Иконка канала CTV",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-01-30/45/e0/45e0e9547f3e4066500d5ce079455af4.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f785d738a845cc80658e887843a18ed9/"
+  },
+  {
+    "id": "5cd8f08283e352a19829ecb269856b8b",
+    "name": "Россия 1",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-02-24/59/f2/59f297ee687a9efe83c248bb2cf17911.jpg?width=34&height=34",
+        "alt": "Иконка канала Россия 1",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-02-24/60/0f/600feaec3f9bedbe27c9b2a3570959f6.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5cd8f08283e352a19829ecb269856b8b/"
+  },
+  {
+    "id": "dcc02ed1ff97923541c6d4c030c54c65",
+    "name": "Comedy Hub",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-04-02/8c/a0/8ca0a0338cbc62022be107e93abdf06f.png?width=34&height=34",
+        "alt": "Иконка канала Comedy Hub",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-03/35/03/350335477626be427a802dfc31c450c1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/dcc02ed1ff97923541c6d4c030c54c65/"
+  },
+  {
+    "id": "3b7d1499da9396462bfd17282d758d30",
+    "name": "Star Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg?width=34&height=34",
+        "alt": "Иконка канала Star Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-03-14/87/c6/87c6d211fd30f5019ebf2bc074b5f7e5.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/3b7d1499da9396462bfd17282d758d30/"
+  },
+  {
+    "id": "c6f66b644424c117f41e48062719ceed",
+    "name": "Телекомпания 4 канал",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2024-11-22/31/1f/311f6353f8d5d040cb81fd8ceb291114.jpg?width=34&height=34",
+        "alt": "Иконка канала Телекомпания 4 канал",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-03-19/53/3b/533bb5643a13cea320228d76b8dcf61d.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/c6f66b644424c117f41e48062719ceed/"
+  },
+  {
+    "id": "fcafa0d358df671e4f7c61ca54c79bea",
+    "name": "РГВК \"Дагестан\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/73/5e/735e97d7e2de44d4d19c2d7e7ca7a66e.jpg?width=34&height=34",
+        "alt": "Иконка канала РГВК \"Дагестан\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-03-24/17/df/17df88e0a6ee654f5870586272147d06.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/fcafa0d358df671e4f7c61ca54c79bea/"
+  },
+  {
+    "id": "4965b7b928c4a143d708ab424be01d37",
+    "name": "Star Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg?width=34&height=34",
+        "alt": "Иконка канала Star Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-03-25/75/f6/75f62fef88b9efbdbc55810553515d53.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/4965b7b928c4a143d708ab424be01d37/"
+  },
+  {
+    "id": "d8857b5b4c4fa78869a13f5e3ca9d4c4",
+    "name": "ТЕЛЕРАДИОКОМПАНИЯ НАДЫМ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2f/c1/2fc1e3d8c7cde90c537fa97ce02e3034.jpg?width=34&height=34",
+        "alt": "Иконка канала ТЕЛЕРАДИОКОМПАНИЯ НАДЫМ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-14/9c/1e/9c1e4b9cf5f6bcdb8fea0fccd3e09cc5.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d8857b5b4c4fa78869a13f5e3ca9d4c4/"
+  },
+  {
+    "id": "f6160b4e48cb32b4d5438c66c83b69dc",
+    "name": "ЮУрГУ-ТВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/3c/33/3c337be18494a9eba0fd9979a504243f.jpg?width=34&height=34",
+        "alt": "Иконка канала ЮУрГУ-ТВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-23/e0/0c/e00c7030af60936cbb72058ac0124f77.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/f6160b4e48cb32b4d5438c66c83b69dc/"
+  },
+  {
+    "id": "37d722b7752cd193a3f94d71cc9d60f5",
+    "name": "НИКА НОВОСТИ КАЛУГИ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/31/98/3198c45aa9aa9d4248774d6fd462e854.jpg?width=34&height=34",
+        "alt": "Иконка канала НИКА НОВОСТИ КАЛУГИ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-28/15/fe/15fe38bd561c53165b021341e718999a.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/37d722b7752cd193a3f94d71cc9d60f5/"
+  },
+  {
+    "id": "dce1080977de5e89dcbd1dd24d014b4e",
+    "name": "САНГАТ (Искусство) телеканал",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-02-03/d1/3a/d13a5ebc5a2d8e903625ba1aa4220bd5.jpg?width=34&height=34",
+        "alt": "Иконка канала САНГАТ (Искусство) телеканал",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-04-30/e4/8f/e48ff4dbc78a47d9a8d7b59faac55f97.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/dce1080977de5e89dcbd1dd24d014b4e/"
+  },
+  {
+    "id": "495ab964b755baa2c9fc7481a2e40f7d",
+    "name": "Большая Азия",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/ca/e1/cae197b864a70fed6ff19371594b6e30.jpg?width=34&height=34",
+        "alt": "Иконка канала Большая Азия",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-05-05/44/cb/44cb69bfb036934263314f29e7c8a4a8.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/495ab964b755baa2c9fc7481a2e40f7d/"
+  },
+  {
+    "id": "7fd6572bc6be7e1c51c55b3f2ccb5bab",
+    "name": "КАВКАЗ 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/45/8f/458f554f322710806be3b51f83451281.jpg?width=34&height=34",
+        "alt": "Иконка канала КАВКАЗ 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-05-06/7a/28/7a2854d9622cf8614d2ad8db38b1f831.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/7fd6572bc6be7e1c51c55b3f2ccb5bab/"
+  },
+  {
+    "id": "5a88a8d75565c5cdebeb11d87bfc61e9",
+    "name": "ВСЯ УФА",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-27/d6/45/d6454d97d90eba314a637c99ca37274b.jpg?width=34&height=34",
+        "alt": "Иконка канала ВСЯ УФА",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-05-15/26/2a/262af2238320997bcd085e3f6dce20cc.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5a88a8d75565c5cdebeb11d87bfc61e9/"
+  },
+  {
+    "id": "6cf7ef6babbb4bb2e9b97961f831034c",
+    "name": "ПРО БИЗНЕС",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/02/fa/02fa06289f66b1fff39ab2c56769203d.jpg?width=34&height=34",
+        "alt": "Иконка канала ПРО БИЗНЕС",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-05-26/4d/d0/4dd0b1b359123837770b8d93de9c8dc1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/6cf7ef6babbb4bb2e9b97961f831034c/"
+  },
+  {
+    "id": "99d4597cea881a27cf7dd6e65a74dade",
+    "name": "Плюс минус 16",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-04-28/33/47/33473a0cbc6c0d089d64539de9029b1f.jpg?width=34&height=34",
+        "alt": "Иконка канала Плюс минус 16",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-06-16/cb/75/cb75406e72b025341091f12ff51e8bff.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/99d4597cea881a27cf7dd6e65a74dade/"
+  },
+  {
+    "id": "ca70d39eba2e8771358bbcb4bfbad860",
+    "name": "Москва 24",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-12/19/b0/19b0b6ac0abca315582bff67d9054ed9.jpg?width=34&height=34",
+        "alt": "Иконка канала Москва 24",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-06-24/92/86/9286dcac873adf04753cd85454a3a608.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/ca70d39eba2e8771358bbcb4bfbad860/"
+  },
+  {
+    "id": "d1eb5756f77825451cc9d129bf5607b0",
+    "name": "Телеканал RTД на русском",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/f9/13/f913eca7e758d4da75b40d71b789f402.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал RTД на русском",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/dc/6a/dc6a28afc7631cf5d3bf9f989f0f1a96.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/d1eb5756f77825451cc9d129bf5607b0/"
+  },
+  {
+    "id": "68b2533a29f7de163842baf1b9dfc17e",
+    "name": "Телеканал ТБВ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-02-18/65/3d/653de6127fec6bb8006e1fdc3c303aea.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал ТБВ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2025-03-11/52/03/520345dda423bb762bcab7a9bad78572.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/68b2533a29f7de163842baf1b9dfc17e/"
+  },
+  {
+    "id": "5e5c002f266cbb781058c145b0522b5c",
+    "name": "Luxury",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/54/a8/54a86820effd8d892fed9c140afbda68.jpg?width=34&height=34",
+        "alt": "Иконка канала Luxury",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6d/5f/6d5f514ce5336f5319bb31b4da480ff8.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5e5c002f266cbb781058c145b0522b5c/"
+  },
+  {
+    "id": "88544b267f6a42a10594d4403a5c4f7e",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/4e/bb/4ebbdf378813b8efe413ac38a1f6a9e0.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/88544b267f6a42a10594d4403a5c4f7e/"
+  },
+  {
+    "id": "9940c33ce5dd7d500ebcfb77c2891c93",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/6b/82/6b826f1ce9d6b837c00efd5d39d8565e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9940c33ce5dd7d500ebcfb77c2891c93/"
+  },
+  {
+    "id": "99111cfbeeec65853b120d9256d41abe",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/71/93/71931608407aba0e74e3eec5dd98a003.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/99111cfbeeec65853b120d9256d41abe/"
+  },
+  {
+    "id": "2560171e488e9ff32b2b1b3628c60439",
+    "name": "Эфиры Red Media",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/90/b4/90b443d8db3e6012f4e790f7ba2fcc49.jpeg?width=34&height=34",
+        "alt": "Иконка канала Эфиры Red Media",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ce/df/cedf9c5cb4b6b9a8fec1233ed1c578c9.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/2560171e488e9ff32b2b1b3628c60439/"
+  },
+  {
+    "id": "c8e7b586ad7b53392745722f3e5104d9",
+    "name": "Nano",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/20/3e/203ef161e2de9cabf72fffc5d8621058.jpg?width=34&height=34",
+        "alt": "Иконка канала Nano",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/a5/c4/a5c49b1ef0d67479794d8652d6e15bdf.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/c8e7b586ad7b53392745722f3e5104d9/"
+  },
+  {
+    "id": "80b308e455f2aceb498e5dccd58ca050",
+    "name": "Телеканал СОЮЗ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/16/92/16920b9a3ba36ed88436441ad9e90895.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал СОЮЗ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-30/ab/fd/abfd635eeeece0b38380f2162c11cb7b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/80b308e455f2aceb498e5dccd58ca050/"
+  },
+  {
+    "id": "952d5c34025490b062ef6620ecab6620",
+    "name": "Ювелирочка",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/72/d8/72d8abe125c34333b85ab69349dc9ad5.jpg?width=34&height=34",
+        "alt": "Иконка канала Ювелирочка",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/ff/9c/ff9c0117daecd04fc4a874f7d5bcd682.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/952d5c34025490b062ef6620ecab6620/"
+  },
+  {
+    "id": "cf958b6c9ae4504be5fc2c1de358a017",
+    "name": "Nano",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/20/3e/203ef161e2de9cabf72fffc5d8621058.jpg?width=34&height=34",
+        "alt": "Иконка канала Nano",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/fa/a4/faa4d3ac577b5172e1e3a0ddd0b08526.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/cf958b6c9ae4504be5fc2c1de358a017/"
+  },
+  {
+    "id": "5fd7b7fd799644b0f2ecff62cd3c6b79",
+    "name": "URAL1.TV",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-02-18/2f/dd/2fdd451fc9d7b5cdacfeb62c224d77cf.jpg?width=34&height=34",
+        "alt": "Иконка канала URAL1.TV",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/33/3b/333b518cc8d056dd9acae3b45e44773b.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5fd7b7fd799644b0f2ecff62cd3c6b79/"
+  },
+  {
+    "id": "873252b1898fc94aae0490b69cafc62e",
+    "name": "Лахта Центр",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/48/a1/48a104cb285747388ce930b311c2a445.jpg?width=34&height=34",
+        "alt": "Иконка канала Лахта Центр",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/86/33/863362c664ba5f03a7f8c8e063aa9578.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/873252b1898fc94aae0490b69cafc62e/"
+  },
+  {
+    "id": "5fa486bf465c8735fff9f41b372610cc",
+    "name": "Телеканал СРЕДА",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/09/bc/09bcceba88686a831e4a47ee0585d335.jpg?width=34&height=34",
+        "alt": "Иконка канала Телеканал СРЕДА",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/b8/9e/b89e98f39e9cd39ef53e1c4e738d0798.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/5fa486bf465c8735fff9f41b372610cc/"
+  },
+  {
+    "id": "c5a272dc23ad505667bc2b54f98a3241",
+    "name": "Таврия. Херсонская область",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/2025-05-16/f6/1a/f61a1b0d92d5e3fafb53c4b469ea7383.jpg?width=34&height=34",
+        "alt": "Иконка канала Таврия. Херсонская область",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/29/81/298190ebd65029f951f7426c6720d947.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/c5a272dc23ad505667bc2b54f98a3241/"
+  },
+  {
+    "id": "cab3beddb72fc9812a380ca5ba3d8c99",
+    "name": "8 КАНАЛ КРАСНОЯРСКИЙ КРАЙ",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/e8/93/e893fcd64c145d0ab5d7a196b84ff94e.jpg?width=34&height=34",
+        "alt": "Иконка канала 8 КАНАЛ КРАСНОЯРСКИЙ КРАЙ",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-10-04/e1/ac/e1ac78b77734c9696988ce0dc4a887ce.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/cab3beddb72fc9812a380ca5ba3d8c99/"
+  },
+  {
+    "id": "59e0373a9aa587e06aeaf9009f86ded1",
+    "name": "Телекомпания \"Первоуральск\"",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/7b/63/7b633f718173ae4995f089750382a40d.jpg?width=34&height=34",
+        "alt": "Иконка канала Телекомпания \"Первоуральск\"",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-07/a6/1e/a61efcc6bcac45bcb96b986da593120e.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/59e0373a9aa587e06aeaf9009f86ded1/"
+  },
+  {
+    "id": "52a1592710d8803b0570bfef9d2fbeff",
+    "name": "Губерния-33",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/65/dd/65ddef57b69d50b33bcbb965df2119d1.jpg?width=34&height=34",
+        "alt": "Иконка канала Губерния-33",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-04/87/47/87476d6dbddad6f0e54245646cecb7f1.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/52a1592710d8803b0570bfef9d2fbeff/"
+  },
+  {
+    "id": "9feaea12e270b1e23f7c7e65da5652af",
+    "name": "Телекомпания ТВ-ИН Магнитогорск",
+    "images": [
+      {
+        "url": "https://pic.rutubelist.ru/user/d5/8d/d58d4f883965fa9ecb8bb1fe8dc3aeb5.jpg?width=34&height=34",
+        "alt": "Иконка канала Телекомпания ТВ-ИН Магнитогорск",
+        "type": "channel_icon"
+      },
+      {
+        "url": "https://pic.rutubelist.ru/video/2024-11-13/65/e9/65e91fa151798399ee6979119dbe92dc.jpg?width=300",
+        "alt": "",
+        "type": "video_poster"
+      }
+    ],
+    "video_url": "https://rutube.ru/video/9feaea12e270b1e23f7c7e65da5652af/"
+  }
+]
